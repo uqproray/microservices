@@ -14,4 +14,6 @@
 
 - can communicate: synchronous or asynchronous
 
-- you can use many different solutions to communicate between microservices..
+- you can use many different solutions (Kafka, RabbitMQ, etc) to communicate between microservices..
+
+- it's cool to use ddd and microservices together
