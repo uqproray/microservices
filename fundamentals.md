@@ -13,3 +13,5 @@
 - each service must be created, identified as an entity thinking about business rules
 
 - can communicate: synchronous or asynchronous
+
+- you can use many different solutions to communicate between microservices..
